@@ -28,6 +28,14 @@ body.pink{
     --primary-color-dark: #A61E4D; 
 }
 
+body.dark-pink{
+    --bg-color: #1F000B;
+    --text-color: #FFFFFF;
+    --primary-color: #D6336C;
+    --primary-color-dark: #A61E4D;
+    
+}
+
 body{
     background: var(--bg-color);
     color: var(--text-color);
